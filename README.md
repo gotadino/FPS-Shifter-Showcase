@@ -24,11 +24,7 @@ Built in **Unreal Engine 5 (C++)** by **Albert Wang*.
 
 ## Demo
 
-
-```
-└── demo/
-    └── FPS-Shifter-Demo.mp4
-```
+▶️ **Watch the gameplay demo on YouTube:** [FPS-Shifter — Gameplay Demo](https://youtu.be/tNMgWVyyhOk)
 
 ---
 
