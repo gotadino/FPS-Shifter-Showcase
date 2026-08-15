@@ -11,7 +11,6 @@ Built in **Unreal Engine 5 (C++)** by **gotadino**.
 
 ## Screenshots
 
-*(Screenshots go here — e.g. the main menu, lobby, arena terrain, and in-match HUD.)*
 
 ```
 ├── screenshots/
@@ -25,7 +24,6 @@ Built in **Unreal Engine 5 (C++)** by **gotadino**.
 
 ## Demo
 
-*(Gameplay video goes here — e.g. `demo/FPS-Shifter-Demo.mp4`, or a YouTube/itch.io link.)*
 
 ```
 └── demo/
