@@ -1,7 +1,7 @@
 # FPS-Shifter
 
 **1v1 Online Multiplayer FPS · Round-Based · Procedurally Regenerated Arena**
-Built in **Unreal Engine 5 (C++)** by **gotadino**.
+Built in **Unreal Engine 5 (C++)** by **Albert Wang*.
 
 > This repository is a public showcase for the project. The source code is
 > maintained in a private repository. This page exists so the game and its
